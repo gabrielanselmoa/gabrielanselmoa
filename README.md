@@ -1,9 +1,8 @@
-### Opa!!! Eu sou Gabriel Anselmo 👋
+### Hi there!!! I'm Gabriel Anselmo 😉
 
 - 🔭 I’m currently working on <strong>Web Development</strong>
 - 🌱 I’m currently learning <strong>HTML, CSS and JavaScript</strong>
-- 🤔 I’m looking for <strong>jobs opportunities</strong>: https://www.linkedin.com/in/gabriel-anselmo-b69bb0247/
-- 📫 How to contact me: gabrielanselmo29@gmail.com
+- 🤔 I’m looking for <strong>jobs opportunities</strong>
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: I like to study about techs in general
 
