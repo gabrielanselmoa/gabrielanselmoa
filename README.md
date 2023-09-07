@@ -1,7 +1,7 @@
 ### Hi there!!! I'm Gabriel Anselmo 😉
 
 - 🔭 I’m currently working on <strong>Web Development</strong>
-- 🌱 I’m currently learning <strong>HTML, CSS and JavaScript</strong>
+- 👨‍💻 I’m currently learning <strong>HTML, CSS, JavaScript, Vue.js and React.js</strong>
 - 🤔 I’m looking for <strong>jobs opportunities</strong>
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: I like to study about techs in general
