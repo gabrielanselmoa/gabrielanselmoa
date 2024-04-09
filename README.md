@@ -1,6 +1,6 @@
 # 🖥 Hi there! I'm Gabriel Anselmo!! 
 
-# Take a look on my Portfolio 📂🧑🏻‍💻
+# Take a look at my Portfolio 📂🧑🏻‍💻
 # https://gabrielanselmoa-portfolio.vercel.app/
 
 <!--![](https://komarev.com/ghpvc/?username=gabrielanselmoa&color=000000)
@@ -24,7 +24,7 @@
 -->
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,typescript,react,nextjs,tailwind)](https://skillicons.dev)
 <!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,sass,figma,nodejs,postgres,jest)](https://skillicons.dev)-->
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanselmoa&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
