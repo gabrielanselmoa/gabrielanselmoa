@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=500&color=5230d0&random=false&width=435&height=40&lines=Hi,+I'm+Gabriel+Anselmo!+🧑🏻‍💻🌍+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5230d0&random=false&width=435&height=40&lines=Hi,+I'm+Gabriel+Anselmo!+🧑🏻‍💻🌍+)](https://git.io/typing-svg)
 
 <p align="left">
 By now, I'm studying Java and their Ecosystem to build a large and scalable application. I'm fascinated by how things works in Java, specially when we apply data structures and algorithms on it.
