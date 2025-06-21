@@ -42,7 +42,7 @@ I'm passionate about building successful products, great team player, experience
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=5230d0&color:FFF)](mailto:gabrielanselmo29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5230d0&color:FFF)](https://www.linkedin.com/in/gabriel-anselmo-b69bb0247/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=5230d0&color:FFF)](https://www.instagram.com/gabrielanselmo.dev/)
+<!--[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=5230d0&color:FFF)](https://www.instagram.com/gabrielanselmo.dev/)-->
 
 
 <h3>GitHub Stats</h3>
