@@ -1,5 +1,24 @@
+# Gabriel Anselmo — Data Analyst & Data Engineer
 
+Mid-level data professional focused on business-driven analytics, 
+modern data architectures, and cloud-based data platforms.
 
+## Core Skills
+- SQL (Advanced) | Python | Power BI | Excel
+- Data Warehouse | Data Lake | ETL / ELT
+- AWS (S3, Glue, Redshift, Athena)
+- GCP (BigQuery, Dataflow, Pub/Sub)
+
+## Portfolio Highlights
+- Business analytics dashboards for executive decisions
+- End-to-end ETL pipelines
+- Cloud-based data platforms
+- Real-world case studies
+
+## Contact
+- LinkedIn: [linkedin.com/in/xxxx](https://www.linkedin.com/in/gabrielanselmoa/)
+
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=300&color=5230d0&random=false&width=435&height=40&lines=Hi,+I'm+Gabriel+Anselmo!+🧑🏻‍💻)](https://git.io/typing-svg)
 
 <p align="left">
@@ -13,7 +32,7 @@ I'm passionate about building successful products, great team player, experience
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="C# logo"  />
   <img width="8" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="25" alt="dotnet logo"  /> -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="25" alt="dotnet logo"  /> 
   <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" height="25" alt="dotnet logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
@@ -35,7 +54,7 @@ I'm passionate about building successful products, great team player, experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />-->
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />-->
+  <img width="8" />
 </div>
 
 <h3 align="left">Connect with me!</h3>
@@ -44,7 +63,7 @@ I'm passionate about building successful products, great team player, experience
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5230d0&color:FFF)](https://www.linkedin.com/in/gabriel-anselmo-b69bb0247/)
 <!--[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=5230d0&color:FFF)](https://www.instagram.com/gabrielanselmo.dev/)-->
 
-<h3 align="center">
+<!-- <h3 align="center">
   Software Engineering 
 </h3>
 
@@ -56,7 +75,7 @@ I'm passionate about building successful products, great team player, experience
 
 </div>
 
-<hr>
+<hr> -->
 
 <!--<h3>GitHub Stats</h3>
 
@@ -65,10 +84,10 @@ I'm passionate about building successful products, great team player, experience
 <br>-->
 
 
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
+</div> -->
