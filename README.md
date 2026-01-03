@@ -16,7 +16,7 @@ modern data architectures, and cloud-based data platforms.
 - Real-world case studies
 
 ## Contact
-- LinkedIn: [linkedin.com/in/xxxx](https://www.linkedin.com/in/gabrielanselmoa/)
+- LinkedIn: https://www.linkedin.com/in/gabrielanselmoa/
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=300&color=5230d0&random=false&width=435&height=40&lines=Hi,+I'm+Gabriel+Anselmo!+🧑🏻‍💻)](https://git.io/typing-svg)
