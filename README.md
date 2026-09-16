@@ -1,28 +1,28 @@
 # 👋 Gabriel Anselmo — Data & Process Improvement Analyst
 
-### 📊 Data Analytics • ⚙️ Process Improvement • 🚀 Operational Efficiency • 🏭 Industrial Technology
+### 📊 Data Analytics • ⚙️ Process Improvement • 🚀 Operational Efficiency • 🏭 Industry 4.0
 
 Data professional focused on transforming **operational data into insights, process improvements, and business impact**.
 
-I work at the intersection of **data, technology, and industrial operations**, developing solutions that improve performance, automate processes, and support data-driven decisions.
+I work at the intersection of **Data Analytics, Industrial Operations, Process Improvement, and Technology**, developing solutions that improve performance, automate processes, and support data-driven decisions.
 
-Currently expanding my expertise in **☁️ Microsoft Azure & Data Engineering**.
+Currently expanding my knowledge in **☁️ Microsoft Azure, Advanced Analytics & Industry 4.0**.
 
 ---
 
 ## 🧠 Core Skills
 
 📊 **Data & Analytics**
-`SQL` `Python` `Power BI` `DAX` `Excel` `ETL / ELT` `Data Modeling`
+`SQL` `Python` `Power BI` `DAX` `Excel` `Data Modeling` `ETL`
 
-⚙️ **Process & Operations**
+⚙️ **Process & Operational Excellence**
 `Process Improvement` `Continuous Improvement` `Operational Efficiency` `KPI Analysis`
 
 🏭 **Industrial Technology**
 `PI System` `AVEVA MES` `SSRS` `Industrial Data` `Process Digitalization`
 
-☁️ **Cloud & Data Engineering**
-`Microsoft Azure` `Azure Data Services` `Data Pipelines` `Cloud Data Platforms`
+☁️ **Technology**
+`Microsoft Azure` `Azure Data Services` `Cloud Fundamentals`
 
 ---
 
@@ -36,9 +36,20 @@ Currently expanding my expertise in **☁️ Microsoft Azure & Data Engineering*
 
 ---
 
-## ☁️ Currently Learning
+## 🎯 Areas of Interest
 
-**Microsoft Azure • Data Engineering • Industry 4.0 • Advanced Analytics • Process Improvement**
+📊 Data Analytics & Business Intelligence
+⚙️ Process Improvement & Operational Excellence
+🏭 Industry 4.0 & Industrial Data
+🚀 Operational Performance & Efficiency
+☁️ Microsoft Azure & Digital Transformation
+📈 Data-Driven Decision Making
+
+---
+
+## 📚 Currently Learning
+
+**Microsoft Azure • Advanced Analytics • Industry 4.0 • Process Improvement**
 
 ---
 
@@ -46,8 +57,8 @@ Currently expanding my expertise in **☁️ Microsoft Azure & Data Engineering*
 
 📊 Business & Operational Analytics
 ⚙️ Process Improvement Case Studies
-🏭 Industrial Data Projects
-☁️ Azure Data Engineering Projects
+🏭 Industrial Data & Industry 4.0 Projects
+☁️ Azure Analytics Projects
 
 ---
 
